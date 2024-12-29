@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eefaf0401255a1b41aa4f71afcbcef27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139310
+  packageName: TerraTex Lite - Automated Terrain Texturing/Splatmap
+  packageVersion: 1.3 (Lite)
+  assetPath: Assets/TerraTex Lite/Editor/TerraTexLiteGUI.cs
+  uploadId: 296212

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40bb728f20448184ab9fb3e08ea3e077
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139310
+  packageName: TerraTex Lite - Automated Terrain Texturing/Splatmap
+  packageVersion: 1.3 (Lite)
+  assetPath: Assets/TerraTex Lite/Demo/New Terrain 1.asset
+  uploadId: 296212

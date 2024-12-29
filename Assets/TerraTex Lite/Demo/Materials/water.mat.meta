@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55b6363aa17337a4b8c2562fe031ac90
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139310
+  packageName: TerraTex Lite - Automated Terrain Texturing/Splatmap
+  packageVersion: 1.3 (Lite)
+  assetPath: Assets/TerraTex Lite/Demo/Materials/water.mat
+  uploadId: 296212
