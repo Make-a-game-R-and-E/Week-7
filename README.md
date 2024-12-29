@@ -32,7 +32,10 @@ Our goal was to combine three key features into a single cohesive experience:
 
 ---
 
-- **Assets Used:**  
-   - **TerraTex Lite**: For high-quality terrain textures.  
-   - **Lowpoly Nature & Village Pack**: To create a lush, detailed environment.  
-   - **Villager Animations FREE**: For animating character models.  
+**Assets Used:**  
+   - **[TerraTex Lite](https://assetstore.unity.com/packages/tools/terrain/terratex-lite-automated-terrain-texturing-splatmap-139310)**: For high-quality terrain textures.  
+   - **[Lowpoly Nature & Village Pack](https://assetstore.unity.com/packages/3d/environments/lowpoly-nature-village-pack-165318)**: To create a lush, detailed environment.  
+   - **[Villager Animations FREE](https://assetstore.unity.com/packages/3d/animations/villager-animations-free-157920)**: For animating character models.  
+
+**Links**
+- [Itch]()
