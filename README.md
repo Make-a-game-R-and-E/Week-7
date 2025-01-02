@@ -38,4 +38,4 @@ Our goal was to combine three key features into a single cohesive experience:
    - **[Villager Animations FREE](https://assetstore.unity.com/packages/3d/animations/villager-animations-free-157920)**: For animating character models.  
 
 **Links**
-- [Itch]()
+- [Itch](https://elyasafko.itch.io/week-7-3d)
